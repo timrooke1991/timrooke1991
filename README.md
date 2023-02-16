@@ -4,14 +4,13 @@
 #### I am a Full Stack Developer 👨‍💻 based by the sea in Bournemouth 🏖   
   
 
-- 🔭 I’m currently working at [Axis](https://www.getaxis.co/) as a Full Stack Engineer  
-  
+- 🔭 I’m currently working at [Legl](https://www.legl.com/) as a Software Engineer  
 
-- 🌱 I’m currently learning Design Patterns, XState and Italian 🇮🇹  
-  
+- 📤 I have background working in both Product Management, Project Management and Engineering roles
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+- 👴 Experienced in building products and working at small, agile tech startups and scaleups
+
+- 🌱 I’m currently learning Django, Vue and Italian 🇮🇹  
 
 - 🎽 I enjoy running half-marathons and marathons  
   
@@ -73,6 +72,7 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
