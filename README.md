@@ -16,4 +16,4 @@ More on [timrooke.com/projects](https://www.timrooke.com/projects).
 
 ### Elsewhere
 
-[LinkedIn](https://linkedin.com/in/tim-rooke) · [Site](https://www.timrooke.com) · [Email](mailto:timrooke1991@gmail.com)
+[LinkedIn](https://linkedin.com/in/tim-rooke) · [Site](https://www.timrooke.com)
