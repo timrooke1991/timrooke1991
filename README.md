@@ -2,7 +2,7 @@
 
 Senior Software Engineer at [Legl](https://www.legl.com/). Previously Bili (EdTech) and Axis. Background in product management at Unruly.
 
-I build product-facing software — TypeScript, modern web stacks, and the occasional data-heavy side project.
+I build product-facing software using mostly a combination of JS and Python. 
 
 **Site:** [timrooke.com](https://www.timrooke.com)
 
